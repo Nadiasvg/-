@@ -13,23 +13,23 @@ namespace ConsoleApp1
         /// </summary>
         public int Id { get; set; }
         /// <summary>
-        /// 
+        /// Name tank
         /// </summary>
         public string Name { get; set; }
         /// <summary>
-        /// 
+        /// Description
         /// </summary>
         public string Description { get; set; }
         /// <summary>
-        /// 
+        /// Volume
         /// </summary>
         public int Volume { get; set; }
         /// <summary>
-        /// 
+        /// maximum value
         /// </summary>
         public int MaxVolume { get; set; }
         /// <summary>
-        /// 
+        /// Unique unit identifier
         /// </summary>
         public int UnitId {  get; set; }
         /// <summary>
